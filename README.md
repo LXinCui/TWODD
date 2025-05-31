@@ -1,3 +1,3 @@
 # TWODD
-2D displacement discontinuity method code (refer to Crouch &amp; Starfield, 1983)
+2D displacement discontinuity method code (Crouch &amp; Starfield, 1983)
 
